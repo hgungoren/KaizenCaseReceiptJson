@@ -1,0 +1,17 @@
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\bin\Debug\net6.0\CaseKaizenReceiptJson.exe
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\bin\Debug\net6.0\CaseKaizenReceiptJson.deps.json
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\bin\Debug\net6.0\CaseKaizenReceiptJson.runtimeconfig.json
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\bin\Debug\net6.0\CaseKaizenReceiptJson.dll
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\bin\Debug\net6.0\CaseKaizenReceiptJson.pdb
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.csproj.AssemblyReference.cache
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.AssemblyInfoInputs.cache
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.AssemblyInfo.cs
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.csproj.CopyComplete
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.dll
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\refint\CaseKaizenReceiptJson.dll
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.pdb
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\CaseKaizenReceiptJson.genruntimeconfig.cache
+C:\Users\huseyin.gungoren\Desktop\CaseCampaign\CaseKaizenReciptJson\CaseKaizenReceiptJson\CaseKaizenReceiptJson\obj\Debug\net6.0\ref\CaseKaizenReceiptJson.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s330YWyFNvCvZnYBahNYits2pY/Ta22nKwp3SMhqKcBrz9l8Tz/IJAqimg/LUxJYe7zUCX6LHYZkA6sRJ4t+7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\huseyin.gungoren\\Desktop\\CaseCampaign\\CaseKaizenReciptJson\\CaseKaizenReceiptJson\\CaseKaizenReceiptJson\\CaseKaizenReceiptJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huseyin.gungoren\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
